@@ -1,0 +1,46 @@
+============================================================
+GAMEEMO FINAL PROJECT REPORT
+============================================================
+
+DATASET INFORMATION
+------------------------------------------------------------
+Subjects               : 28
+Emotion Classes        : 4
+Original Samples       : 33264
+Processed Samples      : 30753
+Removed Samples        : 2511
+
+MODEL INFORMATION
+------------------------------------------------------------
+Deep Model Saved       : YES
+Training History Saved : YES
+Final Train Accuracy   : 98.20%
+Final Validation Acc.  : 94.03%
+
+GENERATED PLOTS
+------------------------------------------------------------
+[OK] accuracy.png
+[OK] confusion_matrix.png
+[OK] roc_curve.png
+[OK] pr_curve.png
+[OK] emotion_distribution.png
+[OK] eeg_signal.png
+[OK] compare_models.png
+[OK] feature_importance.png
+
+PROJECT SUMMARY
+------------------------------------------------------------
+Data Loading               : COMPLETED
+Preprocessing              : COMPLETED
+Feature Extraction         : COMPLETED
+Machine Learning           : COMPLETED
+Deep Learning              : COMPLETED
+Training                   : COMPLETED
+Testing                    : COMPLETED
+Emotion Prediction         : COMPLETED
+Visualization              : COMPLETED
+Project Report             : GENERATED
+
+============================================================
+PROJECT STATUS : SUCCESSFULLY COMPLETED
+============================================================
